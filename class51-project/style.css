@@ -1,0 +1,22 @@
+      .header{
+          background-color: #5f9ea0;
+          border: 5px solid;
+      }
+
+      .body{
+          background-color: #add8e6;
+          border: 2px solid;
+          border-radius: 50px;
+      }
+
+      .facts{
+        background-color: #7fffd4;
+        border: 2px solid;
+        border-radius: 30px;
+        margin: 20px;
+      }
+
+      .title{
+        margin: 25px;
+      }
+ 
